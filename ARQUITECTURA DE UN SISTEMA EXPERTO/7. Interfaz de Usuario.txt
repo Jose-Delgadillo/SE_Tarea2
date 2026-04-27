@@ -1,0 +1,8 @@
+Es lo que el usuario ve.
+    Función:
+        Permite interactuar con el sistema.
+    Debe ser:
+        Clara
+        Fácil de usar
+    Ejemplo:
+        Un formulario donde ingresas síntomas y recibes diagnóstico.

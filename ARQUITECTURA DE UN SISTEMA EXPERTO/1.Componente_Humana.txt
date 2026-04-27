@@ -1,0 +1,9 @@
+Es la base del sistema.
+    Quiénes participan:
+        Expertos (ej. médicos, ingenieros)
+        Ingenieros del conocimiento (traducen el conocimiento al sistema)
+        Usuarios finales
+    Función:
+        Transformar el conocimiento humano en algo que la computadora pueda usar.
+    Ejemplo:
+        Un médico explica cómo diagnosticar enfermedades y un ingeniero convierte eso en reglas dentro del sistema.

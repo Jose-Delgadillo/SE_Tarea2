@@ -1,0 +1,5 @@
+Explica el “por qué”.
+    Función:
+        Justifica decisiones del sistema.
+    Ejemplo:
+        “Se diagnosticó gripe porque presenta fiebre, tos y dolor corporal.”

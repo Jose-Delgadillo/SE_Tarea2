@@ -1,0 +1,6 @@
+¿Qué?
+    Persona que utiliza el sistema.
+¿Para qué?
+    Obtener soluciones o apoyo en decisiones.
+¿Cómo?
+    Introduciendo datos y consultando resultados.

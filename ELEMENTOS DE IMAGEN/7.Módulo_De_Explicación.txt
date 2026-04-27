@@ -1,0 +1,6 @@
+¿Qué?
+    Sistema que justifica las decisiones tomadas.
+¿Para qué?
+    Dar confianza y transparencia al usuario.
+¿Cómo?
+    Mostrando el razonamiento paso a paso o las reglas utilizadas.

@@ -1,0 +1,6 @@
+¿Qué?
+    Componente que captura e incorpora conocimiento al sistema.
+¿Para qué?
+    Mantener actualizada la base de conocimiento.
+¿Cómo?
+    Recibiendo información del experto, sensores o bases de datos y validándola.

@@ -1,0 +1,10 @@
+Es el “cerebro lógico”.
+    Función:
+        Aplica reglas a los datos para obtener conclusiones.
+    Tipos:
+        Determinista (seguro)
+        Probabilístico (con incertidumbre)
+    Ejemplo:
+        Datos: fiebre + tos
+        Conocimiento: reglas médicas
+        Resultado: “probable gripe”

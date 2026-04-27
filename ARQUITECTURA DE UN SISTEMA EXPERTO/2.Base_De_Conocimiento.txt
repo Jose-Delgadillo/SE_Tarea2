@@ -1,0 +1,12 @@
+Es donde se guarda el “saber”.
+    Contiene:
+        Reglas
+        Hechos
+        Relaciones
+    Diferencia clave:
+        Conocimiento: general (ej. “si hay fiebre + tos → posible infección”)
+        Datos: específicos (ej. “paciente tiene fiebre de 38°C”)
+    Ejemplo:
+    En un sistema médico:
+        Conocimiento: relación entre síntomas y enfermedades
+        Datos: síntomas de un paciente actual

@@ -1,0 +1,5 @@
+Se encarga de agregar nuevo conocimiento al sistema.
+    Función:
+        Decide si la nueva información es útil y la guarda.
+    Ejemplo:
+        Si se descubre una nueva enfermedad, este subsistema la añade a la base.

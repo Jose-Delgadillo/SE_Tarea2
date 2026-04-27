@@ -1,0 +1,6 @@
+¿Qué?
+    Persona con conocimiento especializado en un área.
+¿Para qué?
+    Proporcionar el conocimiento que el sistema utilizará.
+¿Cómo?
+    Explicando reglas, experiencias y criterios al ingeniero del conocimiento.

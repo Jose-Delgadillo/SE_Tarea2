@@ -1,0 +1,7 @@
+Evita contradicciones.
+    Función:
+        Verifica que el conocimiento no sea inconsistente.
+    Ejemplo:
+    Evita cosas como:
+        Regla 1: “X causa Y”
+        Regla 2: “X no causa Y”

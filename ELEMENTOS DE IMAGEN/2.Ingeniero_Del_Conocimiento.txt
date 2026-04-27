@@ -1,0 +1,6 @@
+¿Qué?
+    Especialista que traduce el conocimiento humano a formato computacional.
+¿Para qué?
+    Convertir el conocimiento del experto en reglas entendibles por el sistema.
+¿Cómo?
+    Diseñando reglas, estructuras lógicas y representaciones formales.

@@ -1,0 +1,6 @@
+¿Qué?
+    Fuentes externas de información.
+¿Para qué?
+    Alimentar al sistema con datos reales o actualizados.
+¿Cómo?
+    Capturando datos automáticamente (sensores) o consultando bases de datos.

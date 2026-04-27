@@ -1,0 +1,6 @@
+Ejecuta acciones basadas en decisiones.
+    Función:
+        Actuar según lo que el sistema concluye.
+    Ejemplo:
+        Sistema ferroviario → detener trenes
+        Sistema médico → recomendar tratamiento

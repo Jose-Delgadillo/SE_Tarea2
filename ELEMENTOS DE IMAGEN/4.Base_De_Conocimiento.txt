@@ -1,0 +1,6 @@
+¿Qué?
+    Almacén estructurado de conocimiento (reglas, relaciones, lógica).
+¿Para qué?
+    Servir como fuente principal para razonar.
+¿Cómo?
+    Guardando reglas tipo “SI… ENTONCES…” o modelos probabilísticos.

@@ -1,0 +1,6 @@
+¿Qué?
+    Conjunto de datos específicos del problema actual.
+¿Para qué?
+    Proporcionar información concreta al sistema para analizar.
+¿Cómo?
+    Almacenando entradas del usuario o datos en tiempo real.

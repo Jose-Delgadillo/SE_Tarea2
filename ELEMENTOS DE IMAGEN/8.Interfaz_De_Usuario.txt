@@ -1,0 +1,6 @@
+¿Qué?
+    Medio de comunicación entre el usuario y el sistema.
+¿Para qué?
+    Facilitar la interacción.
+¿Cómo?
+    A través de formularios, preguntas o interfaces gráficas.

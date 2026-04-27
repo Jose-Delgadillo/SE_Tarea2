@@ -1,0 +1,7 @@
+Permite que el sistema mejore.
+    Tipos:
+        Estructural: nuevas reglas
+        Paramétrico: ajustar probabilidades
+    Ejemplo:
+        Aprende que cierto síntoma ahora es más importante
+        Ajusta probabilidades de enfermedades

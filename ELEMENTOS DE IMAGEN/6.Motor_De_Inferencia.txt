@@ -1,0 +1,6 @@
+¿Qué?
+    Núcleo lógico del sistema experto.
+¿Para qué?
+    Generar conclusiones o soluciones.
+¿Cómo?
+    Aplicando reglas de la base de conocimiento a los datos de la base de hechos.
